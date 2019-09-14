@@ -19,3 +19,6 @@ User Personas
 
 ### What I'll Have to Learn
 I'll need to learn how to use Sketch and Marvel for prototyping as well as methodologies for user research and experience based design.
+
+### The Yoga Trap Prototype
+[The Yoga Trap](https://marvelapp.com/cdf5h9b)
